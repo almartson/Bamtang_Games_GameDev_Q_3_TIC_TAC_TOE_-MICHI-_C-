@@ -8,29 +8,29 @@ Bamtang Games Game Dev Exam Answer to: Question #3 (TIC TAC TOE, a.k.a MICHI in 
 
 ###### Imprime una lista (en un archivo de texto) de todas las jugadas posibles de Tic-tac-toe (Michi) ordenadas de la siguiente manera:
 
-  N    X 0 X 0 X 0 X 0 X Win
-000001 1 2 3 4 5 6 7 0 0 X
-000002 1 2 3 4 5 6 8 7 9 X
-000003 1 2 3 4 5 6 8 9 7 X
-000004 1 2 3 4 5 6 9 0 0 X
-000005 1 2 3 4 5 7 6 8 9 X
-000006 1 2 3 4 5 7 6 9 8 E
-...
-255165 9 8 7 6 5 4 1 0 0 X
-255166 9 8 7 6 5 4 2 1 3 X
-255167 9 8 7 6 5 4 2 3 1 X
-255168 9 8 7 6 5 4 3 0 0 X
+  N    X 0 X 0 X 0 X 0 X Win  
+000001 1 2 3 4 5 6 7 0 0 X  
+000002 1 2 3 4 5 6 8 7 9 X  
+000003 1 2 3 4 5 6 8 9 7 X  
+000004 1 2 3 4 5 6 9 0 0 X  
+000005 1 2 3 4 5 7 6 8 9 X  
+000006 1 2 3 4 5 7 6 9 8 E  
+...  
+255165 9 8 7 6 5 4 1 0 0 X  
+255166 9 8 7 6 5 4 2 1 3 X  
+255167 9 8 7 6 5 4 2 3 1 X  
+255168 9 8 7 6 5 4 3 0 0 X  
 
 
   Donde la primera columna es el número de la jugada y las siguientes nueve columnas son las jugadas realizadas por el jugador X y O consecutivamente. El dígito cero indica que no se realizó ninguna jugada en ese turno (pues el juego concluyó antes) y un dígito del 1-9 indica que se ha realizado la jugada en la posición definida por el siguiente tablero numerado:
 
--------------
-| 1 | 2 | 3 |
--------------
-| 4 | 5 | 6 |
--------------
-| 7 | 8 | 9 |
--------------
+-------------  
+| 1 | 2 | 3 |  
+-------------  
+| 4 | 5 | 6 |  
+-------------  
+| 7 | 8 | 9 |  
+-------------  
 
 ##### Tu función debe imprimir además en la columna final el resultado de la partida:
   
@@ -38,7 +38,7 @@ Bamtang Games Game Dev Exam Answer to: Question #3 (TIC TAC TOE, a.k.a MICHI in 
 
 #### Implementar la función: listAllTicTacToeGames( fileName )
 
-<strong> (6 PUNTOS) <\strong>
+<strong> (6 PUNTOS) </strong>
 
 
 *******************************************************************************
