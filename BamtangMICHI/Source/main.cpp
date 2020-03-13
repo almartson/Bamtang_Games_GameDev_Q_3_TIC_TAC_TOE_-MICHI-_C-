@@ -7,8 +7,7 @@
 
   [Spanish original Question:]
 
-  Imprime una lista (en un archivo de texto) de todas las jugadas posibles de tictac-
-toe (michi) ordenadas de la siguiente manera:
+  Imprime una lista (en un archivo de texto) de todas las jugadas posibles de Tic-tac-toe (Michi) ordenadas de la siguiente manera:
 
   N    X 0 X 0 X 0 X 0 X Win
 000001 1 2 3 4 5 6 7 0 0 X
@@ -1081,6 +1080,33 @@ void ListAllTicTacToeGames( const string &fileName )
 }//End Procedure
 
 
+/*
+ * It returns a Terminator Picture, made with (ANSI) ASCII characters.
+*/
+const std::string GetTerminatorASCII()
+{
+	// Set the String:
+	//	
+	string str = "                       ______\n";
+	str += "                     <((((((\\\\\\\n";
+	str += "                     /      . }\\\n";
+	str += "                     ;--..--._|}\n";
+	str += "  (\\                 '--/\\--'  )\n";
+	str += "   \\\\                | '-'  :'|\n";
+	str += "    \\\\               . -==- .-|\n";
+	str += "     \\\\               \\.__.'   \\--._\n";
+	str += "     [\\\\          __.--|       //  _/'--.\n";
+	str += "     \\ \\\\       .'-._ ('-----'/ __/      \\\n";
+	str += "      \\ \\\\     /   __>|      | '--.       |\n";
+	str += "       \\ \\\\   |   \\   |     /    /       /\n";
+	str += "        \\ '\\ /     \\  |     |  _/       /\n";
+	str += "         \\  \\       \\ |     | /        /\n";
+	str += "Terminate \\  \\      \\        /\n";
+
+	return str;
+}//End Procedure
+
+
 
 int main()
 {
@@ -1104,6 +1130,7 @@ int main()
 	// Pause Console:
 	//
 	std::cout << "\n\n***************************************\n\nBy: Alejandro E. Almarza Martin\n\n";
+	std::cout << GetTerminatorASCII() << endl;
 	std::cout << "\nPress the <ENTER> key to Terminate the Program.";
 	// Pause:
 	//
