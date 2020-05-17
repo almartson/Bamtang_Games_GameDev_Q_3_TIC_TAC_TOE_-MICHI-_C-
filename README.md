@@ -42,7 +42,7 @@ Algorithm (written in C++) that prints a list (in a text file) of all possible T
 
 *******************************************************************************
 
-#### Note: This source code was written in Visual Studio C++ 2010 (IDE), to build the executable.
+#### Note: This source code was written in Visual Studio C++ 2010 (IDE), to build an executable file.
 
 *******************************************************************************
 Source Code By:	 Alejandro E. Almarza Martín
