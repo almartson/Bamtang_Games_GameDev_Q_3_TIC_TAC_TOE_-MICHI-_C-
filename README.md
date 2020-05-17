@@ -1,5 +1,5 @@
 # Bamtang_Games_GameDev_Q_3_TIC_TAC_TOE_(MICHI)_C++
-Bamtang Games Game Dev Exam Answer to: Question #3 (TIC TAC TOE, a.k.a MICHI in Perú, and 'La Vieja' - 'The Old Woman' - in Venezuela). [ C++ ] 
+Algorithm (written in C++) that prints a list (in a text file) of all possible Tic-Tac-Toe moves - My Answer to the Bamtang Games' Game Dev Exam:
 
 ## Question number 3.
 ## 3. MICHI
@@ -40,6 +40,9 @@ Bamtang Games Game Dev Exam Answer to: Question #3 (TIC TAC TOE, a.k.a MICHI in 
 
 <strong> (6 PUNTOS) </strong>
 
+*******************************************************************************
+
+#### Note: This source code was written in Visual Studio C++ 2010 (IDE), to build the executable.
 
 *******************************************************************************
 Source Code By:	 Alejandro E. Almarza Martín
