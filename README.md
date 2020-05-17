@@ -6,7 +6,7 @@ Bamtang Games Game Dev Exam Answer to: Question #3 (TIC TAC TOE, a.k.a MICHI in 
 
 [Spanish original Question:]
 
-###### Imprime una lista (en un archivo de texto) de todas las jugadas posibles de Tic-tac-toe (Michi) ordenadas de la siguiente manera:
+###### Imprime una lista (en un archivo de texto) de todas las jugadas posibles de Tic-Tac-Toe (Michi) ordenadas de la siguiente manera:
 
 <pre>  N    X 0 X 0 X 0 X 0 X Win
 000001 1 2 3 4 5 6 7 0 0 X  
