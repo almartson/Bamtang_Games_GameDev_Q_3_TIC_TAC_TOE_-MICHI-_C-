@@ -1,5 +1,5 @@
 # Bamtang_Games_GameDev_Q_3_TIC_TAC_TOE_(MICHI)_C++
-Algorithm (written in C++) that prints a list (in a text file) of all possible Tic-Tac-Toe moves - My Answer to the Bamtang Games' Game Dev Exam:
+Algorithm (written in C++) that prints a list (in a text file) of all possible Tic-Tac-Toe moves - My Answer to the Bamtang Games' Game Programmer Exam (originally published in 2018):
 
 ## Question number 3.
 ## 3. MICHI
