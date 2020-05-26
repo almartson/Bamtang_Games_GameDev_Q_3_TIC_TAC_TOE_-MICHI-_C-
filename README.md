@@ -24,13 +24,15 @@ Algorithm (written in C++) that prints a list (in a text file) of all possible T
 
   Donde la primera columna es el número de la jugada y las siguientes nueve columnas son las jugadas realizadas por el jugador X y O consecutivamente. El dígito cero indica que no se realizó ninguna jugada en ese turno (pues el juego concluyó antes) y un dígito del 1-9 indica que se ha realizado la jugada en la posición definida por el siguiente tablero numerado:
 
--------------<br />
+<pre>
+-------------
 | 1 | 2 | 3 |  
--------------<br />
+-------------
 | 4 | 5 | 6 |  
--------------<br />
+-------------
 | 7 | 8 | 9 |  
--------------<br />
+-------------
+</pre>
 
 ##### Tu función debe imprimir además en la columna final el resultado de la partida:
   
