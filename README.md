@@ -49,7 +49,7 @@ Algorithm (written in C++) that prints a list (in a text file) of all possible T
 
 #### 2- [Game Programmer Exam Questions (originally published in 2018)](README_QuestionDetails/BAMTANG_ExamCpp_2018.pdf).
 
-#### 3- [Bamtang Games' current Game Programmer Exam, as reference](https://www.bamtang.com/careers/game-programmer).
+#### 3- [Bamtang Games' current Game Programmer Exam, as reference](https://www.bamtang.com/jobs/game-programmer).
 
 *******************************************************************************
 Source Code By:	 Alejandro E. Almarza Martín
